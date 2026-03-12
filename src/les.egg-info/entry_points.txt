@@ -1,0 +1,2 @@
+[console_scripts]
+les = les.main:main
