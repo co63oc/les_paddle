@@ -1,8 +1,5 @@
-import sys
-
-sys.path.append("/nfs/github/co63oc/les_paddle")
 import paddle
-from paddle_utils import *
+from .paddle_utils import *
 
 """basic scatter_sum operations from torch_scatter from
 https://github.com/mir-group/pytorch_runstats/blob/main/torch_runstats/scatter_sum.py
