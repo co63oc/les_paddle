@@ -15,7 +15,7 @@ Please refer to the `setup.py` file for installation instructions.
 
 `les` can be installed using `pip`
 ```bash
-git clone https://github.com/ChengUCB/les.git
+git clone https://github.com/co63oc/les_paddle.git
 pip install -e . 
 ```
 
